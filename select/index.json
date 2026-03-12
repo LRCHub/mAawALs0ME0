@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": ".PERIOD",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-12T17:14:46.291834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Street Dreams (J.PERIOD Remix)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/01_Street_Dreams_(J.PERIOD_Remix)_Nas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Period Talk",
+      "artist": "Audiobooks",
+      "has_synced": true,
+      "path": "select/02_Period_Talk_Audiobooks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Period (We Live)",
+      "artist": "City Girls",
+      "has_synced": true,
+      "path": "select/03_Period_(We_Live)_City_Girls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Period Sex",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": false,
+      "path": "select/04_Period_Sex_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Decompression Period",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/05_Decompression_Period_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue period Picasso",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/06_Blue_period_Picasso_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Period",
+      "artist": "Chemistry",
+      "has_synced": true,
+      "path": "select/07_Period_Chemistry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Period(Cover)",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/08_Period(Cover)_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Transition period",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/09_Transition_period_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love You Period",
+      "artist": "Dan Baird",
+      "has_synced": true,
+      "path": "select/10_I_Love_You_Period_Dan_Baird.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4th Period: Clothes Off!!",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/11_4th_Period__Clothes_Off!!_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": ".PERIOD",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_.PERIOD_DEXCORE.txt"
+    }
+  ]
+}
